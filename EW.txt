@@ -28,17 +28,7 @@ INSERT INTO power_curve VALUES
 
 Dodanie lokalizacji
 INSERT INTO locations VALUES
-(3,3,435286,583659, 'lodzkie', 'rawski', 'Rawa Mazowiecka'),
-(4,3,435554, 583239, 'lodzkie', 'rawski', 'Rawa Mazowiecka'),
-(5,3,435175, 582939, 'lodzkie', 'rawski', 'Rawa Mazowiecka'),
-(6,3,435859, 582929, 'lodzkie', 'rawski', 'Rawa Mazowiecka'),
-(7,3,435555, 582767, 'lodzkie', 'rawski', 'Rawa Mazowiecka'),
-(8,3,435287, 582485, 'lodzkie', 'rawski', 'Rawa Mazowiecka'),
-(9,3,436109, 582558, 'lodzkie', 'rawski', 'Rawa Mazowiecka'),
-(10,3,436585, 582060, 'lodzkie', 'rawski', 'Rawa Mazowiecka'),
-(11,3,436195, 582040, 'lodzkie', 'rawski', 'Rawa Mazowiecka'),
-(12,3,435875, 582032, 'lodzkie', 'rawski', 'Rawa Mazowiecka'),
-(13,3,435389, 582008, 'lodzkie', 'rawski', 'Rawa Mazowiecka'),
+(3,3,435286,583659, 'lodzkie', 'rawski', 'Rawa Mazowiecka');
 
 
 
