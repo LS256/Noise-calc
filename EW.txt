@@ -31,7 +31,9 @@ INSERT INTO locations VALUES
 (3,3,435286,583659, 'lodzkie', 'rawski', 'Rawa Mazowiecka');
 
 
+insert into wtg values (5, 'Vestas V112', 3000, 94, 112);
 
+V110 2MW is on 4th position
 
 
 
